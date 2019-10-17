@@ -1,0 +1,23 @@
+{
+  "name": "github_pull_request_manager",
+  "version": "1.0.0",
+  "description": "Github pull request manager node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarryLemons34/github_pull_request_manager.git"
+  },
+  "author": "Spencer Crews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarryLemons34/github_pull_request_manager/issues"
+  },
+  "homepage": "https://github.com/LarryLemons34/github_pull_request_manager#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "github-api": "^3.3.0"
+  }
+}
