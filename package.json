@@ -4,7 +4,7 @@
   "description": "Github pull request manager node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js https://github.com/google/filament"
   },
   "repository": {
     "type": "git",
